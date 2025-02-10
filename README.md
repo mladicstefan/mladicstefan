@@ -51,9 +51,9 @@
     </a>
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mladicstefan&show_icons=true&locale=en&theme=dark" alt="mladicstefan" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mladicstefan&show_icons=true&locale=en&theme=dark&count_private=true" alt="mladicstefan" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mladicstefan&theme=dark" alt="mladicstefan" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mladicstefan&theme=dark&count_private=true" alt="mladicstefan" />
   </p>
 </div>
