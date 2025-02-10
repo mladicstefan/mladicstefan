@@ -51,19 +51,14 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
     </a>
-  </p>
-  
-  <!-- Operating Systems -->
-  <h4 style="color: #c9d1d9;">Operating Systems</h4>
-  <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="filter: brightness(0) invert(1);" />
     </a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="40" height="40" style="filter: brightness(0) invert(1);" />
     </a>
     <a href="https://getfedora.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/fedora/fedora-icon.svg" alt="Fedora Linux" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/fedora/fedora-icon.svg" alt="Fedora Linux" width="40" height="40" style="filter: brightness(0) invert(1);" />
     </a>
   </p>
   
